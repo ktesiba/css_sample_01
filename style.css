@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: silver;
 }
 
 #container {
@@ -15,8 +15,8 @@ header {
 
 nav {
     padding: 8px 40px;
-    background-color: black;
-    color: blue;
+    background-color: purple;
+    color: black;
 }
 
 #contents{
@@ -27,6 +27,6 @@ nav {
 footer {
     padding: 40px;
     height: 40px;
-    background-color : black;
-    color: yellow;
+    background-color : red;
+    color: white;
 }
